@@ -1,0 +1,10 @@
+---
+key: "CountryInfo-1.0.0"
+name : "CountryInfo"
+displayName : "CountryInfo"
+description: "CountryInfo"
+version: "1.0.0"
+serviceUrl: "https://{MI_HOST}:{MI_PORT}/countryinfo"
+definitionType: "OAS3"
+securityType: "BASIC"
+mutualSSLEnabled: false
